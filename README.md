@@ -67,7 +67,7 @@ Yes
 
 ## Running in the background
 
-On Windows, minimizing the window or clicking **X** hides it to the system tray while rules keep running. Click the tray icon or choose **Open** from its menu to restore the window. Choose **Exit** from the tray menu to quit SimpleKVM.
+On Windows, minimizing the window keeps SimpleKVM on the taskbar. Clicking **X** hides it to the system tray while rules keep running. Click the tray icon or choose **Open** from its menu to restore the window. Choose **Exit** from the tray menu to quit SimpleKVM.
 
 ## Run at startup
 1. Click the settings button
